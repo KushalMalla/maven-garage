@@ -18,7 +18,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>SprialPatternExample</mainClass>
+              <mainClass>SpiralPatternExample</mainClass>
             </manifest>
           </archive>
         </configuration>
