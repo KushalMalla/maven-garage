@@ -22,6 +22,10 @@ jobs:
      run: |
       cd target
       ls -a
-   - name: executing jar file
-     run: java -jar pattern-1.0-SNAPSHOT.jar
+   - name: executing class file
+     run: | 
+      java -cp ./classes SpiralPatternExample
+      10
+      
+     
       
