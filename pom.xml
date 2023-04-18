@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   
-  <groupID>com.example</groupID>
+  <groupId>com.example</groupId>
   <artifactId>pattern</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
