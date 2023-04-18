@@ -22,8 +22,6 @@ jobs:
      run: |
       cd target
       ls -a
-   - name: executing class file
-     run: | 
       cd classes
       java SpiralPatternExample
       5
