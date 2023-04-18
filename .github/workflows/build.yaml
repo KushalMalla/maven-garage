@@ -24,8 +24,9 @@ jobs:
       ls -a
    - name: executing class file
      run: | 
-      java -cp ./classes SpiralPatternExample
-      10
+      cd classes
+      java SpiralPatternExample
+      5
       
      
       
