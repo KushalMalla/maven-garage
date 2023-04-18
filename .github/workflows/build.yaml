@@ -21,9 +21,7 @@ jobs:
    - name: change directory to target folder and list files
      run: |
       cd target
-      ls -a
-      cd classes
-      java SpiralPatternExample
+      java -jar pattern-1.0-SNAPSHOT.jar
       
       
      
